@@ -1,3 +1,3 @@
 # InstancesGenerator
 A Minecraft instance generator 
-#(does not work yet!!!)
+# (does not work yet!!!)
